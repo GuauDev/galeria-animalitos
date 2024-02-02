@@ -1,0 +1,48 @@
+{
+  "animales": [
+    {
+      "nombre": "tribilin",
+      "urls": [
+        "src/assets/animales/Tribilin/tribilin.heic",
+        "src/assets/animales/Tribilin/tribilin2.heic",
+        "src/assets/animales/Tribilin/tribilin3.heic",
+        "src/assets/animales/Tribilin/tribilin4.heic",
+        "src/assets/animales/Tribilin/tribilin5.heic",
+        "src/assets/animales/Tribilin/tribilin6.heic",
+        "src/assets/animales/Tribilin/tribilin7.heic",
+        "src/assets/animales/Tribilin/tribilin8.heic",
+        "src/assets/animales/Tribilin/tribilin9.heic",
+        "src/assets/animales/Tribilin/tribilin10.heic",
+        "src/assets/animales/Tribilin/tribilin11.heic",
+        "src/assets/animales/Tribilin/tribilin12.heic",
+        "src/assets/animales/Tribilin/tribilin13.heic",
+        "src/assets/animales/Tribilin/tribilin14.heic"
+      ],
+      "portada": "src/assets/animales/Tribilin/tribilin13.heic",
+      "mensaje": "Soy tribi el mejor."
+    },
+    {
+      "nombre": "kira",
+      "urls": [
+        "src/assets/animales/Kira/kira.heic",
+        "src/assets/animales/Kira/kira2.heic",
+        "src/assets/animales/Kira/kira3.heic",
+        "src/assets/animales/Kira/kira4.heic"
+      ],
+      "portada": "src/assets/animales/Kira/kira.heic",
+      "mensaje": "Soy muy juguetona"
+    },
+    {
+      "nombre": "Cabritos",
+      "urls": [
+        "src/assets/animales/Cabritos/cabritos.heic",
+        "src/assets/animales/Cabritos/cabritos2.heic",
+        "src/assets/animales/Cabritos/cabritos3.heic",
+        "src/assets/animales/Cabritos/cabritos4.heic",
+        "src/assets/animales/Cabritos/cabritos5.heic"
+      ],
+      "mensaje": "Somos unos lindos cabritos",
+      "portada": "src/assets/animales/Cabritos/cabritos.heic"
+    }
+  ]
+}
